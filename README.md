@@ -18,7 +18,7 @@ ACCEPTANCE CRITERIA
 
 DEPLOYED APPLICATION
 --------------------
-
+[This is an external link to published site] (https://acdodd17.github.io/horiseon-accessibility/)
 
 WEBPAGE APPLICATION APPEARANCE
 ------------------------------

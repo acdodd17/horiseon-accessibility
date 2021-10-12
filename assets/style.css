@@ -1,12 +1,16 @@
+/* all elements style */
 * {
     box-sizing: border-box;
     padding: 0;
     margin: 0;
   }
-  
+  /* END all style */
+
+  /* body background style*/
   body {
     background-color: #d9dcd6;
   }
+  /* END body background style*/
   
   /* banner navigation style */
   .header {
@@ -42,7 +46,7 @@
     display: inline-block;
     margin-left: 25px;
   }
-  /* banner navigation style end */
+  /* END banner navigation style */
   
   a {
     color: #ffffff;
@@ -62,7 +66,7 @@
     background-size: cover;
     background-position: center;
   }
-  /* hero style end */
+  /* END hero style */
   
   .float-left {
     float: left;
@@ -98,7 +102,7 @@
     margin-bottom: 20px;
     font-size: 36px;
   }
-  /* content style end */
+  /* END content style */
   
   /* benefits style */
   .benefits {
@@ -127,7 +131,7 @@
     margin: 10px auto;
     max-width: 150px;
   }
-  /* benefits style end */
+  /* END benefits style */
   
   /* footer style */
   .footer {
@@ -141,5 +145,5 @@
   .footer h4 {
     font-size: 20px;
   }
-  /* footer style end */
+  /* END footer style */
   

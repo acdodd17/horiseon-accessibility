@@ -22,4 +22,4 @@ DEPLOYED APPLICATION
 
 WEBPAGE APPLICATION APPEARANCE
 ------------------------------
-
+![Screenshot of webpage](./assets/images/Screenshot.png)

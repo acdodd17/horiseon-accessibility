@@ -20,7 +20,7 @@ ACCEPTANCE CRITERIA
 * HTML
 * CSS 
 
-## Website 
+## WEBSITE
 
 [This is an external link to published site] (https://acdodd17.github.io/horiseon-accessibility/)
 
@@ -28,6 +28,6 @@ WEBPAGE APPLICATION APPEARANCE
 ------------------------------
 ![Screenshot of webpage](./assets/images/Screenshot.png)
 
-## Contribution
+## CONTRIBUTION
 
 Refactored with ❤️ by Anna Dodd
